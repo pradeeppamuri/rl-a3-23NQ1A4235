@@ -1,0 +1,12 @@
+<!-- roll=23NQ1A4235 seeds=20264235, 20264236, 20264237 -->
+| player | opponent | games | wins | win rate % | 95% CI % |
+|---|---|---|---|---|---|
+| learned (seed 20264235) | hold_at_h* | 10000 | 5856 | 58.56 | [57.59, 59.52] |
+| learned (seed 20264235) | random | 10000 | 9016 | 90.16 | [89.56, 90.73] |
+| learned (seed 20264236) | hold_at_h* | 10000 | 5960 | 59.60 | [58.63, 60.56] |
+| learned (seed 20264236) | random | 10000 | 9026 | 90.26 | [89.66, 90.83] |
+| learned (seed 20264237) | hold_at_h* | 10000 | 5991 | 59.91 | [58.95, 60.87] |
+| learned (seed 20264237) | random | 10000 | 9063 | 90.63 | [90.04, 91.19] |
+| learned (3 seeds pooled) | hold_at_h* | 30000 | 17807 | 59.36 | [58.80, 59.91] |
+| learned (3 seeds pooled) | random | 30000 | 27105 | 90.35 | [90.01, 90.68] |
+| hold_at_h* (reference) | random | 10000 | 9066 | 90.66 | [90.07, 91.21] |
